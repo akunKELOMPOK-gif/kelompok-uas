@@ -1,11 +1,5 @@
 # kelompok-uas
-tugas project UAS 
-nama kelompok
-- Rifki Pudoli
-- Jonathan stiven
-- Tiara mandini
-website : Pengaduan Masyarakat
-login: user dan admin
-pengaduan, menanggapi pengaduan, status pengaduan, pengaduan sudah di proses dan ditindak lanjuti
-database: pengaduan, users, menanggapi
-laporan: status pengaduan, status ditanggapi, total pengaduan. 
+ 12. Rifki Pudoli, Jonathan (Sistem pengaduan masyarakat)
+- Sistem : Login, pengaduan, Tindaklanjut, Status pengaduan
+- DB : User, pengaduan, tanggapan
+- Report : Laporan pengaduan masuk, Laporan pengaduan selesai, Laporan pengaduan per kategori
